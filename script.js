@@ -42,11 +42,11 @@ const Card = (props) => {
 };
 const App = (props) => {
     const cards = [
-        { id: 1, icon: "fas fa-cheese", title: "Baked Goods", text: "A Lion." },
-        { id: 2, icon: "fas fa-ice-cream", title: "Sweet Treats", text: "A bus that flies." },
-        { id: 3, icon: "fas fa-pepper-hot", title: "Authentic Mexican", text: "A small bus that costs more than a bus." },
-        { id: 4, icon: "fas fa-hamburger", title: "Juicy Burgers", text: "A bunch of buses tied together." },
-        { id: 5, icon: "fas fa-pizza-slice", title: "Pizza Italiano", text: "The smallest of buses with two wheels." }
+        { id: 1, icon: "fas fa-cheese", title: "Baked Goods", text: "Freshly Baked goods ranging from bread, pasteries and pies." },
+        { id: 2, icon: "fas fa-ice-cream", title: "Sweet Treats", text: "Satisfy your sweet tooth from a range of fresh sweet treats." },
+        { id: 3, icon: "fas fa-pepper-hot", title: "Authentic Mexican", text: "Hot and spicy authentic mexican cuisine." },
+        { id: 4, icon: "fas fa-hamburger", title: "Juicy Burgers", text: "Veh and Non-veg Juicy burgers made fresh everyday ." },
+        { id: 5, icon: "fas fa-pizza-slice", title: "Pizza Italiano", text: "Be exported to italy with a range of delicious authentic italian pizzas." }
     ];
 
     

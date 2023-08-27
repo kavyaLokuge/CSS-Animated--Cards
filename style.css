@@ -151,19 +151,16 @@ body a {
   font-weight: 300;
   text-align: center;
 }
-
 #app #cards-wrapper #cards .card-wrapper .card .content .text {
   margin-top: 100px;
   padding: 20px 40px;
 }
-
 #app #cards-wrapper #cards .card-wrapper .card .content .text p {
   color: #787878;
   font-size: 2em;
   font-weight: 300;
   text-align: center;
 }
-
 #app #cards-wrapper #cards .card-wrapper .card .content .close-button {
   background-color: white;
   border: none;
@@ -180,12 +177,10 @@ body a {
   transition: all 0.25s;
   width: 50px;
 }
-
 #app #cards-wrapper #cards .card-wrapper .card .content .close-button:hover,
 #app #cards-wrapper #cards .card-wrapper .card .content .close-button:focus {
   bottom: 25px;
 }
-
 #app #cards-wrapper #cards .card-wrapper .card .content .close-button:hover i,
 #app #cards-wrapper #cards .card-wrapper .card .content .close-button:focus i {
   color: #a8ff78;
